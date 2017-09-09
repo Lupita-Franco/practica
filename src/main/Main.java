@@ -12,9 +12,9 @@ import controllers.Controller;
  *
  * @author Lupita
  */
-public class Main {
+public class Main { 
     
-    public static void main (String [] akma ){
+    public static void main (String [] mgfc ){
         Model mod = new Model();
         Views vi = new Views();
         Controller controllers = new Controller(mod, vi);
